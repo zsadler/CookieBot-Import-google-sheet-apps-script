@@ -1,5 +1,8 @@
 # CookieBot-Import-google-sheet-apps-script
 
+This script is to be used with Google Sheets utilizing App Scripts to fetch cookie data from CookieBot.
+
+
 ## Cookiebot API
 In this section you will find support material directly related to the Cookiebot API. The API is available from here: https://www.cookiebot.com/goto/developer/
 
